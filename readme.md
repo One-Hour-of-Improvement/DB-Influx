@@ -25,6 +25,7 @@ pip install -r requirements.txt
 
 ## Metadata
 
-|Key|Value|
+| Key | Value |
+|-----|--------|
 | # of 1 Hour of Improvement | 42 |
 | Learnt at | 2025-03-26 |
